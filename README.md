@@ -53,5 +53,5 @@ O Vite irá pedir algumas informações sobre o projeto, como: nome, quais lingu
 
 Para Inicializar o projeto é necessário rodar o comando dentro da pasta do peojeto criado com o Vite:
 ```npm
-npm run dev
+    npm run dev
 ```
