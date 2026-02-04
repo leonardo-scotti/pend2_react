@@ -16,10 +16,6 @@
 
 É uma biblioteca JavaScript de código aberto, criada pelo Facebook (Meta) em 2013, possuindo um foco principal na criação de interfaces de usuário (UI) rápidas, interativas e baseadas em componentes reutilizáveis. Além disso, ele é popularizado no desenvolvimento front-end, utilizando um Virtual DOM para otimizar a renderização e pode ser usado em sites com React DOM ou apps móveis com React Native.
 
-> Poque aprende-lo ?
-
-Aprender React é essencial por ser a biblioteca JavaScript mais popular para criar interfaces de usuário dinâmicas e reativas, oferecendo alta demanda no mercado de trabalho e ótimas oportunidades de salários. Seus componentes reutilizáveis agilizam o desenvolvimento, enquanto a forte comunidade e o suporte da Meta garantem aprendizado contínuo. 
-
 > Por que utilizá-lo ?
 
 Entre as principais razões podemos citar:
