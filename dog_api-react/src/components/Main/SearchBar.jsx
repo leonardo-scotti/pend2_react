@@ -7,7 +7,7 @@ function SearchBar() {
 
   function handleKeyPress(e) {
     if (e.key === "Enter" && breed.trim() !== "") {
-      navigate(`/breed/${breed.toLowerCase()}`)
+      navigate(`/breed/${breed}`)
       setBreed("")
     }
   }
