@@ -41,3 +41,17 @@ Os cenários onde o React não é indicado:
 
 ### Parte 2 - Instalação e Configuração
 
+#### Requisitos de Ambiente
+Basicamente os requisitos de ambiente necessários para utilizar o React são o Node.js e uma ferramenta de build, essa ferramenta é opcional mas é recomendada, no nosso caso usamos o Vite.
+
+#### Comandos para instalação 
+Começar a instalação usando o Vite:
+```npm
+    npm create vite@latest
+```
+O Vite irá pedir algumas informações sobre o projeto, como: nome, quais linguagens deseja utilizarn.
+
+Para Inicializar o projeto é necessário rodar o comando dentro da pasta do peojeto criado com o Vite:
+```npm
+npm run dev
+```
