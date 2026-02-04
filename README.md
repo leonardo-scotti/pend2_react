@@ -38,3 +38,6 @@ Os cenários onde o React não é indicado:
 
 - Aplicações de Performance Extrema (Baixa latência/Alto volume de dados): 
 - - Em cenários que exigem renderização de volumes de dados muito grandes, muito frequentes, ou manipulações complexas do DOM, a "Virtual DOM" do React pode causar gargalos. Frameworks mais leves (como Svelte) ou Vanilla JS podem ser melhores para máxima performance.
+
+### Parte 2 - Instalação e Configuração
+
